@@ -4,20 +4,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+Loream Ispumama
 
 ## Person B:
 
-Am I the person I thought I'd be?
+Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+I made a list of plants that I have in my house. You can fo look at them in the plants-i-have.txt file.
 
 ## Person D:
 
 Person D should modify content here.
 Trying this again. Take 2!
+=======
+Just some pretty cool stuff in here. This is V's section I'm gonna write about cool stuff. Just about anything is pretty cool. 
 
 ## Need inspiration?
 
