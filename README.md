@@ -16,7 +16,7 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+Just some pretty cool stuff in here. This is V's section I'm gonna write about cool stuff. Just about anything is pretty cool. 
 
 ## Need inspiration?
 
