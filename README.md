@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Am I the person I thought I'd be?
+Person B should modify content here.
 
 ## Person C:
 
