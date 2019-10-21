@@ -12,7 +12,7 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+I made a list of plants that I have in my house. You can fo look at them in the plants-i-have.txt file.
 
 ## Person D:
 
